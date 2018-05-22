@@ -5,14 +5,15 @@ body {
   background-image: url("https://media.discordapp.net/attachments/447166256487989279/447181294921711646/steam.jpg?width=841&height=474");
 }
 
-h1 {
-  color: red;
-}
-
 h2 {
   color: #00F5FF;
 }
 
 h3 {
   color: white;
+}
+
+.título {
+  color: red;
+  font-size: 50px
 }
